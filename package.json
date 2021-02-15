@@ -1,0 +1,19 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "This is a todo list in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tusshar-developer",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tusshar-developer/simple-todo-app-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tusshar-developer/simple-todo-app-node/issues"
+  },
+  "homepage": "https://github.com/Tusshar-developer/simple-todo-app-node#readme"
+}
