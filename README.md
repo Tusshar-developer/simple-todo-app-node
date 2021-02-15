@@ -1,5 +1,5 @@
 # TODO TERMINAL APP
-This is a simple todo app made in nodejs. It has to be used through the terminal. Don't worry, a website version is coming out soon.
+This is a simple todo app made in nodejs. It has to be used through the terminal.
 
 ## Commands
 
